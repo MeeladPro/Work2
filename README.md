@@ -1,3 +1,5 @@
 # MeeladPro TEST 1
 
 PLEASE COME ALONG INSTRUCTIONS
+1. Play with me
+DONE!
