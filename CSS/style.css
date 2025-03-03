@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    user-select: none;
+}
+
+#Colors {
+    width: 500px;
+    height: 500px;
+    transition:  1s ease-in-out;
+    background: radial-gradient(red, blue, green);
+}
+
+#Colors:hover {
+    background: radial-gradient(rgb(51, 4, 4), rgb(2, 2, 41), rgb(5, 54, 5));
+}
